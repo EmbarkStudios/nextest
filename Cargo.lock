@@ -1763,7 +1763,6 @@ dependencies = [
  "win32job",
  "winapi",
  "windows",
- "windows-sys 0.48.0",
  "zstd",
 ]
 
